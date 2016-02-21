@@ -31,7 +31,7 @@ h2 {
 }
 
 .float_center {
-  float: right;
+  float: center;
   position: relative;
   /*left: -50%; or right 50% */
   /*text-align: left;*/
