@@ -11,6 +11,7 @@ h1 {
 	font-family: 'Trebuchet MS', sans-serif;
 	color: #ffffff;
 	font-size: 3rem;
+	text-outline: 2px 2px #f000000;
 }
 
 h2 {
