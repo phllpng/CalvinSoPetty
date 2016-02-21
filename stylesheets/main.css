@@ -30,3 +30,11 @@ h2 {
 	color: #ffffff;
 }
 
+.float_center {
+  float: right;
+
+  position: relative;
+  left: -50%; /* or right 50% */
+  text-align: left;
+}
+
