@@ -3,12 +3,12 @@ body {
 	background-size: cover;
 	height: 100%;
 	margin: 0;
-	text-align: center;
 	width: 100%;
 }
 
 h1 {
 	font-family: 'Trebuchet MS', sans-serif;
+	text-align: center;
 	color: #ffffff;
 	font-size: 3rem;
 	-webkit-text-fill-color: white;
@@ -18,6 +18,7 @@ h1 {
 
 h2 {
 	font-family: 'Trebuchet MS', serif;
+	text-align: center;
 	color: #ffffff;
 	font-size: 2rem;
 	-webkit-text-fill-color: white;
@@ -25,6 +26,6 @@ h2 {
    	-webkit-text-stroke-color: black;
 }
 
-#right {
+.calvin {
 	text-align: right;
 }
