@@ -10,10 +10,12 @@ body {
 
 h1 {
 	font-family: 'Trebuchet MS', sans-serif;
+	font-color: #FFFFFF;
 	font-size: 3rem;
 }
 
 h2 {
 	font-family: 'Trebuchet MS', serif;
+	font-color: #FFFFFF;
 	font-size: 2rem;
 }
