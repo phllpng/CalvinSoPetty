@@ -28,14 +28,11 @@ h2 {
 	vertical-align: text-bottom;
 	text-align: center;
 	color: #ffffff;
-	-webkit-text-fill-color: white;
-   	-webkit-text-stroke-width: 0.4px;
-   	-webkit-text-stroke-color: black;
 }
 
 .float_center {
   height: 100%;
-  width: 70%;
+  width: 75%;
   float: right;
   /*position: relative;*/
   /*text-align: left;*/
