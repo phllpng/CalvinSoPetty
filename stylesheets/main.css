@@ -38,6 +38,6 @@ h2 {
   /*text-align: left;*/
 }
 
-#up {
+.float_center #up {
 	vertical-align: middle;
 }
