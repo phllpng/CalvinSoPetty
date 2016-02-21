@@ -34,10 +34,8 @@ h2 {
   height: 100%;
   width: 67.5%;
   float: right;
-  /*position: relative;*/
-  /*text-align: left;*/
 }
 
-.float_center #up {
-	vertical-align: top;
+#up {
+  vertical-align: top;
 }
