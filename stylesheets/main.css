@@ -33,9 +33,8 @@ h2 {
 .float_center {
   height: 50%;
   width: 50%;
-  float: right;
+  float: left;
   /*position: relative;*/
-  left: -75%;
   /*text-align: left;*/
 }
 
