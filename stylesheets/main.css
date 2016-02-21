@@ -1,6 +1,7 @@
 body {
 	background-image: url("https://pbs.twimg.com/profile_images/684576619453898752/iVU5hFO8.jpg");
 	background-size: cover;
+	font-color: #FFFFFF;
 	height: 100%;
 	margin: 0;
 	text-align: center;
@@ -9,7 +10,6 @@ body {
 
 h1 {
 	font-family: 'Trebuchet MS', sans-serif;
-	font-color: #FFFFFF;
 	font-size: 2rem;
 }
 
