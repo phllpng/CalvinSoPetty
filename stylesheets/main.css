@@ -30,12 +30,6 @@ h2 {
 	color: #ffffff;
 }
 
-.float_right {
-	height: 100%;
-	width: 10%;
-	float: right;
-}
-
 .float_center {
   height: 100%;
   width: 67.5%;
@@ -46,5 +40,4 @@ h2 {
  height: 100%;
  width: 30%;
  float: right;
- 
 }
