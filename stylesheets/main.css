@@ -30,6 +30,10 @@ h2 {
 	color: #ffffff;
 }
 
+#up {
+	vertical-align: top;
+}
+
 .float_center {
   height: 100%;
   width: 67.5%;
