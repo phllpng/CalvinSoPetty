@@ -24,6 +24,10 @@ h2 {
    	-webkit-text-stroke-color: black;
 }
 
+a {
+	color: inherit;
+}
+
 #footer {
 	vertical-align: text-bottom;
 	text-align: center;
