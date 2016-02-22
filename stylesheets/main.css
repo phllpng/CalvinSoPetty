@@ -44,7 +44,7 @@ h2 {
 
 .float_center > .child {
  height: 100%;
- width: 50%;
+ width: 25%;
  float: right;
  
 }
